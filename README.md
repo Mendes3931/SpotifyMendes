@@ -1,2 +1,1 @@
-# SpotifyMendes
-Este é um repositório voltado para portfólio. Nesse repositório está uma página web de uma versão antiga do site Spotify, está aplicação é voltada para fins educacionais.
+Este site foi feito utilizando HTML5, CSS3 e BootStrap. Foi feito com a intenção de exercicitar os conhecimentos previamente adquiridos.
